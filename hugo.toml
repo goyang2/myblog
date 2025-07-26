@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ko'
+title = '내 블로그'
+theme = "PaperMod"
