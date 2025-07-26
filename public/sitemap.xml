@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/hello-world/</loc>
+    <loc>https://harmonious-sundae-720dc3.netlify.app/posts/hello-world/</loc>
     <lastmod>2025-07-26T12:14:49+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://harmonious-sundae-720dc3.netlify.app/posts/</loc>
     <lastmod>2025-07-26T12:14:49+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://harmonious-sundae-720dc3.netlify.app/</loc>
     <lastmod>2025-07-26T12:14:49+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://harmonious-sundae-720dc3.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://harmonious-sundae-720dc3.netlify.app/tags/</loc>
   </url>
 </urlset>
