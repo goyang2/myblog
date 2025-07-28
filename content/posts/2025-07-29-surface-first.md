@@ -1,5 +1,5 @@
 ---
-title: 2025-07-29-surface-first
+title: 서피스에서
 date: 2025-07-28
 tags: 
 categories: 
@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-# 2025-07-29-surface-first
+
 
 오늘도 좋은 하루입니다.
 
