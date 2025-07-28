@@ -1,4 +1,4 @@
-baseURL = "https://goyang2-blog.netlify.app/"
+baseURL = "https://goyang2.netlify.app/"
 languageCode = 'ko'
 title = '내 블로그'
 theme = "PaperMod"
